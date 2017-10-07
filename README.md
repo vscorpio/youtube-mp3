@@ -23,4 +23,4 @@
 <h1>Known issues</h1>
 <p>- when using all-at-once method at 20+ songs the leftover files clean-up isn't done propely (will be fixed soon)<br />- when using all-at-once method if you currently use other CPU intensive apps the conversion might not be always succesfull<br /><br /></p>
 <h1>Screenshots</h1>
-<p>Main UI: <img src="https://i.gyazo.com/2a74dc57c75547e58502beffaa427af7.gif" /> Single download: <img src="https://i.gyazo.com/c4e225341569e8e7fae242c3812ea0d1.gif" /></p>
+<p>Main UI: <br><img src="https://i.gyazo.com/2a74dc57c75547e58502beffaa427af7.gif" /> Single download: <br><img src="https://i.gyazo.com/c4e225341569e8e7fae242c3812ea0d1.gif" /></p>
