@@ -1,0 +1,12 @@
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\bin\Debug\Youtube-MP3.exe.config
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\bin\Debug\Youtube-MP3.exe
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\bin\Debug\Youtube-MP3.pdb
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\bin\Debug\Youtube-MP3.xml
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\obj\Debug\Youtube_MP3.Form1.resources
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\obj\Debug\Youtube_MP3.Resources.resources
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\obj\Debug\Youtube-MP3.vbproj.GenerateResource.Cache
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\obj\Debug\Youtube-MP3.exe
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\obj\Debug\Youtube-MP3.xml
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\obj\Debug\Youtube-MP3.pdb
+c:\users\scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\obj\Debug\Youtube_MP3.Form2.resources
+C:\Users\Scorpio\documents\visual studio 2013\Projects\Youtube-MP3\Youtube-MP3\obj\Debug\Youtube-MP3.vbprojResolveAssemblyReference.cache
